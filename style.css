@@ -1,7 +1,12 @@
 #about,
-#testimoni {
-  padding-top: 5rem;
+#testimoni,
+#galleri {
+  padding-top: 6rem;
 }
+
+/* #galleri {
+  padding-bottom: 5rem;
+} */
 
 .jumbo,
 .content {
